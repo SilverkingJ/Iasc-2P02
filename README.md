@@ -1,2 +1,2 @@
-# Iasc-2P02
-Repositiry for IASC 2P02 course
+Hello worls 
+This is the read me file for Iasc 2P02 portfolio
